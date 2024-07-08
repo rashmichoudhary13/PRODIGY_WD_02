@@ -9,7 +9,9 @@ Features
  - Responsive Design: Ensures optimal usability and appearance on desktops, tablets, and mobile devices.
 
  - Project Demo:
+   
    ![Screenshot (1348)](https://github.com/rashmichoudhary13/PRODIGY_WD_02/assets/143423224/08f881db-2a46-43a1-94a3-1d3ab918d08e)
+   
    ![Screenshot (1349)](https://github.com/rashmichoudhary13/PRODIGY_WD_02/assets/143423224/09f7710e-46e0-4b91-9674-534517a4a619)
 
 
