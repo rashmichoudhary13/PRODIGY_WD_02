@@ -1,0 +1,47 @@
+<html>
+  <head>
+    <meta name="viewport"  content="width=device-width, initial-scale=1.0">
+    <title>StopWatch</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Ga+Maamli&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="title">
+      <h1>StopWatch</h1>
+      <hr>
+    </div>
+
+    <!-- Watch Section-->
+    <div class="container">
+      <div class="time-container">
+        <span id="minute">00</span>
+        <span class="colon">:</span>
+        <span id="second">00</span>
+        <span class="colon">:</span>
+        <span id="millisec">00</span>
+      </div>
+
+      <!-- Button Section -->
+      <div class="btn-class">
+        <button class="btn" id="StartBtn">Start</button>
+        <button class="btn" id="ResetBtn">Reset</button>
+        <button class="btn" id="LapBtn">Lap</button>
+      </div>
+
+      <!-- Lap Section -->
+      <div class="lap">
+        <ul class="lap-insert">
+          
+        </ul>
+        <button class="btn clr-btn"> Clear All </button>
+      </div>
+    </div>
+
+      <script src="main.js"></script>
+  </body>
+</html>
