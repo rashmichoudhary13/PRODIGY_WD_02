@@ -1,6 +1,6 @@
 # PRODIGY_WD_02
 This project is a responsive stopwatch website with functionalities for pausing, resetting, and tracking lap times. It is designed to provide a user-friendly interface across various devices.
-This project is compatible exclusively with Chrome
+This project is compatible exclusively with Chrome. The project is live at: https://rashmichoudhary13.github.io/PRODIGY_WD_02/
 
 Features
  - Start/Pause: Easily start or pause the stopwatch with a single click.
